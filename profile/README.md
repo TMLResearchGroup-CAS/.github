@@ -16,4 +16,4 @@
       > Some descriptions could be inserted here.
 
 3. Deep Learning Theory
-   - efg
+   - hijk
