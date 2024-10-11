@@ -1,4 +1,4 @@
-# ICT AISafetyBasicResearchGroup
+# ICT AISatetyFundamentalResearchGroup
 
 ## Open Source Projects
 
@@ -7,7 +7,7 @@
    - CausalDiff
   
 2. Safety Evaluation & Metrics
-   - [ImplicitBiasBenchmark](https://github.com/AISatetyBasicResearchGroup/ImplicitBiasBenchmark)
+   - [ImplicitBiasBenchmark](https://github.com/AISatetyFundamentalResearchGroup/ImplicitBiasBenchmark)
 
 3. Deep Learning Theory
    - efg
