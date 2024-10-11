@@ -7,7 +7,7 @@
    - CausalDiff
   
 2. Safety Evaluation & Metrics
-   - [SafetyAttack](https://github.com/AISatetyBasicResearchGroup/ImplicitBiasBenchmark)
+   - [ImplicitBiasBenchmark](https://github.com/AISatetyBasicResearchGroup/ImplicitBiasBenchmark)
 
 3. Deep Learning Theory
    - efg
