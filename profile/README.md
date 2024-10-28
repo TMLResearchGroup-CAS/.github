@@ -1,5 +1,9 @@
 # AI Satety Basic Research Group, ICT, CAS
 
+## News
+
+
+
 ## Open Source Projects
 
 ### Technology
