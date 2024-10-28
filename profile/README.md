@@ -1,4 +1,4 @@
-# ICT AISatetyFundamentalResearchGroup
+# AI Satety Basic Research Group, ICT, CAS
 
 ## Open Source Projects
 
