@@ -8,7 +8,7 @@
 
 ### Technology
 
-| |Trustworthy|Managable|Controllable|
+| |Trustworthiness|Regulataility|Controllablility|
 |:----|:----:|:----:|:----:|
 |Measure|     |Bias Measure - Yuchen Wen|    |
 |Evaluation|Adversalrial Robustness - Tongrui Su|Bias - Yuchen Wen & Shiqi Sun|   |
