@@ -1,4 +1,4 @@
-# AI Satety Basic Research Group, ICT, CAS
+# AI Safety Basic Research Group, ICT, CAS
 
 ## News
 
