@@ -1,4 +1,4 @@
-# TML Group, ICT, CAS
+# Trustworthy Machine Learning Research Team @ ICT. CAS
 
 ## News
 
