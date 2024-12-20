@@ -1,4 +1,4 @@
-# AI Safety Basic Research Group, ICT, CAS
+# TML Group, ICT, CAS
 
 ## News
 
