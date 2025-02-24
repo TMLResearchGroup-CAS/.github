@@ -2,9 +2,10 @@
 
 ## Open Source Projects
 
-1. Causality-Inspired Models and its Robustness
+1. Adversarially Defense Methods on Image Classification
 
   - [CausalDiff](https://github.com/TMLResearchGroup-CAS/CausalDiff)
+  - [CLIPure](https://github.com/TMLResearchGroup-CAS/CLIPure)
 
 2. Implicit Bias attack and evaluation
 
